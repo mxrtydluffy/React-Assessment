@@ -1,0 +1,13 @@
+input {
+    background-color: tan;
+    font-size: 23px;
+    border-radius: 20px;
+    padding: 10px
+}
+
+.like-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 125px;
+}

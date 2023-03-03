@@ -1,0 +1,16 @@
+.band-container {
+    background-color: antiquewhite;
+    border: 5px solid grey;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding-left: 28px;
+    padding-bottom: 18px;
+}
+
+h2 {
+    font-family: 'Baskerville';
+    font-size: 2rem;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
