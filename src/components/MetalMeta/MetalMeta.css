@@ -1,5 +1,5 @@
 input {
-    color: grey;
+    color: #800020;
 }
 
 .band-input{
@@ -10,3 +10,7 @@ input {
 p {
     padding-top: 10px;
 }
+
+::placeholder {
+    color: #800020;
+  }
