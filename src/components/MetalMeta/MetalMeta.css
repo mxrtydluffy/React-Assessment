@@ -14,3 +14,8 @@ p {
 ::placeholder {
     color: #800020;
   }
+
+  input[value]
+{
+    font-family: 'Baskerville';
+}
